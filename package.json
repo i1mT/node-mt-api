@@ -1,0 +1,26 @@
+{
+  "name": "mt-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tfh93121/node-mt-api.git"
+  },
+  "author": "iimT",
+  "email": "tfhhh@qq.com",
+  "license": "ISC",
+  "dependencies": {
+    "big-time": "^2.0.1",
+    "boom": "^7.2.0",
+    "catbox": "^10.0.2",
+    "cryptiles": "^4.1.1",
+    "hapi": "^17.4.0",
+    "iron": "^5.0.4",
+    "restify": "^7.1.1",
+    "topo": "^3.0.0"
+  }
+}
