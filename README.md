@@ -8,13 +8,17 @@ You can just modify `server_conf.js` to define your custom API, and then to code
 
 # How to use ?
 
-### 1. Clone this repo:
+### 1. Clone this repo, and install npm pkg:
 ```
 git clone git@github.com:tfh93121/node-mt-api.git
 
 or 
 
 https://github.com/tfh93121/node-mt-api.git
+
+then
+
+npm install
 ```
 ### 2. Edit `server_conf.js`, for example:
 ```
