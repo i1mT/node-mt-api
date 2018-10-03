@@ -69,7 +69,7 @@ MTAPI server listening at http://[::]:8080
 
 ### 7. Now, you can just to define API, and edit function to solve request.
 # BTW
-## If it's elpful to you, star it!
+## If it's helpful to you, star it!
 ## Welcome issue and PR.
 
 # Enjoy it.
